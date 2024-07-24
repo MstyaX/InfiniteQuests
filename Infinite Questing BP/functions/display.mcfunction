@@ -1,0 +1,2 @@
+titleraw @a[scores={wheat_needed=0,pqbQC=0..29},tag=!pqbC] actionbar { "rawtext": [{"text":  "§bQuests Completed: "},{"score":{"name":"*","objective":"pqbQC"}},{"text":"/30"},{"text":"\n§5Infinite Coins: "},{"score":{"name":"*","objective":"infCoins"}}]}
+titleraw @a[scores={pqbQC=30},tag=!pqbC] actionbar { "rawtext": [{"text":  "§aQuest Book Completed Click On It To Get A New One"}]}

@@ -1,0 +1,67 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Void32B"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.29"
+			],
+			"dash": [
+				"0.11.6"
+			]
+		}
+	},
+	"header": {
+		"name": "Infinite Questing",
+		"description": "Infinite Questing By Void32B on Xbox and void32b on Discord!",
+		"min_engine_version": [
+			1,
+			20,
+			80
+		],
+		"uuid": "42f19a7b-7b9c-46a6-8241-8c358941adff",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "874dc316-2403-42cc-ade5-b4ea307b1fdb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "8ce0b5cd-e6ec-4709-a982-897a73a9e1b2",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.12.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0-beta"
+		}
+	]
+}

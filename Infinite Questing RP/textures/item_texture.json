@@ -1,0 +1,21 @@
+{
+	"resource_pack_name": "Infinite Questing",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"void_primitive_quest_book": {
+			"textures": "textures/primitive_quest_book"
+		},
+		"void_old_quest_book": {
+			"textures": "textures/old_quest_book"
+		},
+		"void_modern_quest_book": {
+			"textures": "textures/modern_quest_book"
+		},
+		"void_futuristic_quest_book": {
+			"textures": "textures/futuristic_quest_book"
+		},
+		"void_infinite_quest_book": {
+			"textures": "textures/infinite_quest_book"
+		}
+	}
+}

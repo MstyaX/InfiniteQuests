@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": 
+	  {
+		"description": {
+		  "identifier": "void:primitive_quest_book"
+		},
+		"tags": [
+		  "crafting_table"
+		],
+		"pattern": [
+		  "SOS",
+		  "OIO",
+		  "SOS"
+		],
+		"key": {
+		  "S": {
+			"item": "minecraft:smooth_stone"
+		  },
+		  "O": {
+			"item": "minecraft:oak_log"
+		  },
+		  "I": {
+			"item": "minecraft:iron_block"
+		  }
+		},
+		"result": {
+		  "item": "void:primitive_quest_book",
+		  "count": 1
+		}
+	  }
+  }

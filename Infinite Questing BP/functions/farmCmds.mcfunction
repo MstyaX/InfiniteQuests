@@ -1,0 +1,1 @@
+titleraw @a[scores={wheat_needed=1..}] actionbar { "rawtext": [{"text":  "Wheat Collected: "},{"score":{"name":"*","objective":"wheat"}}]}

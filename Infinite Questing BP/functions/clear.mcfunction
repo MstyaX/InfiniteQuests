@@ -1,0 +1,1 @@
+clear @a[tag="pqbC"] void:primitive_quest_book
